@@ -81,4 +81,4 @@ deploy:
   type: 
   repo: 
     github: https://github.com/kopalam/kopalam.github.io.git
-  branch: gh-pages
+  branch: master
